@@ -1,0 +1,8 @@
+D:\00.  BASIS  .00\DATABASE RELATED STUDY\UniversityThreeLayerPracticeApp\UniversityThreeLayerPracticeApp\bin\Debug\UniversityThreeLayerPracticeApp.exe.config
+D:\00.  BASIS  .00\DATABASE RELATED STUDY\UniversityThreeLayerPracticeApp\UniversityThreeLayerPracticeApp\bin\Debug\UniversityThreeLayerPracticeApp.exe
+D:\00.  BASIS  .00\DATABASE RELATED STUDY\UniversityThreeLayerPracticeApp\UniversityThreeLayerPracticeApp\bin\Debug\UniversityThreeLayerPracticeApp.pdb
+D:\00.  BASIS  .00\DATABASE RELATED STUDY\UniversityThreeLayerPracticeApp\UniversityThreeLayerPracticeApp\obj\Debug\UniversityThreeLayerPracticeApp.UniversityUI.resources
+D:\00.  BASIS  .00\DATABASE RELATED STUDY\UniversityThreeLayerPracticeApp\UniversityThreeLayerPracticeApp\obj\Debug\UniversityThreeLayerPracticeApp.Properties.Resources.resources
+D:\00.  BASIS  .00\DATABASE RELATED STUDY\UniversityThreeLayerPracticeApp\UniversityThreeLayerPracticeApp\obj\Debug\UniversityThreeLayerPracticeApp.csproj.GenerateResource.Cache
+D:\00.  BASIS  .00\DATABASE RELATED STUDY\UniversityThreeLayerPracticeApp\UniversityThreeLayerPracticeApp\obj\Debug\UniversityThreeLayerPracticeApp.exe
+D:\00.  BASIS  .00\DATABASE RELATED STUDY\UniversityThreeLayerPracticeApp\UniversityThreeLayerPracticeApp\obj\Debug\UniversityThreeLayerPracticeApp.pdb
